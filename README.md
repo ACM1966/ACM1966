@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=35&duration=4000&pause=1000&color=4CC9F0&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+aCm1T;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=35&duration=4000&pause=1000&color=4CC9F0&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Captain+James;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,11 +17,12 @@
 ---
 
 ## 🧑‍💻 About Me
-
-- 🔭 I'm passionate about **algorithms, full-stack development, and system design**
+aCm1T
+- 🔭 I'm passionate about **algorithms, full-stack development, and cybersecurity**
+- 🤖 Currently working on **AI-related projects**, focusing on **LLM inference optimization**
+- 🎓 Applying for **2027 Master's programs**
 - 📝 I regularly write articles on my **[CodingPlus Blog](https://www.cnblogs.com/CodingPlus/)**
 - 🌐 Check out my portfolio at **[acm1t.github.io](https://acm1t.github.io/)**
-- 💡 I love solving complex problems and building elegant solutions
 
 ---
 
