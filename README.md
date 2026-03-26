@@ -9,6 +9,9 @@
   <a href="https://acm1966.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-4361ee?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   </a>
+  <a href="https://t.me/aCm1T" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-aCm1T-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 ---
