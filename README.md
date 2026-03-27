@@ -17,7 +17,6 @@
 ---
 
 ## 🧑‍💻 About Me
-aCm1T
 - 🔭 I'm passionate about **algorithms, full-stack development, and cybersecurity**
 - 🤖 Currently working on **AI-related projects**, focusing on **LLM inference optimization**
 - 🎓 Applying for **2027 Master's programs**
